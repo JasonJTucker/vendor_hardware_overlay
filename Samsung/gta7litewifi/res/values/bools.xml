@@ -30,4 +30,6 @@
     <bool name="config_dozeSupportsAodWallpaper">true</bool>
     <bool name="config_displayBrightnessBucketsInDoze">false</bool>
     <bool name="config_fingerprintSupportsGestures">false</bool>
+    <bool name="config_enableNightMode">true</bool>
+    <bool name="config_usbChargingMessage">true</bool>
 </resources>
